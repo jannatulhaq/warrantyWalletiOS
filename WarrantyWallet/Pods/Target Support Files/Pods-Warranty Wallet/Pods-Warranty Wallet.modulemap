@@ -1,0 +1,6 @@
+framework module Pods_Warranty_Wallet {
+  umbrella header "Pods-Warranty Wallet-umbrella.h"
+
+  export *
+  module * { export * }
+}
